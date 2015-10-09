@@ -1,7 +1,6 @@
 name: Friendly Skies
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.37977
+layout_spectrum: 0.8
 cta:
   domain: null
   bucket: null
