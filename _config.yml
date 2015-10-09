@@ -1,7 +1,7 @@
 name: Friendly Skies
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.37977
+typography_spectrum: 0.31586
 cta:
   domain: null
   bucket: null
@@ -22,8 +22,8 @@ color:
     - '#acbbdb'
     - '#db4243'
   brandStrength: 0.3125
-  lightness: 0.6875
-  saturation: 0.5
+  lightness: 0.8125
+  saturation: 0.625
   rhythmicContrast: 0.5
 purpose:
   - name: awareness
